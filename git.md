@@ -28,3 +28,8 @@
 
 >**git checkout -b <branch_name>** - создание ветки и переход к ней
 > **git branch -d <branch_name>** - удалить ветку с именем <branch_name>
+
+## Ссылка
+**Для создания ссылки использовать <[name]_(link)>
+
+Например: [GB.ru](https://gb.ru/)
