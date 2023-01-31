@@ -28,3 +28,8 @@
 
 >**git checkout -b <branch_name>** - создание ветки и переход к ней
 > **git branch -d <branch_name>** - удалить ветку с именем <branch_name>
+
+## Работа с изображениями
+**Чтобы вставить изображение в текст надо:**
+![Night_city](city.jpg)
+
